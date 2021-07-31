@@ -1,8 +1,6 @@
 # Question-1_StringInsert5  
 
-# Question-1_StringInsert5
-
-­ì©lÃD¥Ø  
+åŸå§‹é¡Œç›®  
 [image](./image/OriginalQuestion.bmp)  
 
 Write a function solution that, given an integer N, returns the maximum possible value obtained by inserting one '5' digit inside the decimal representation of integer N.  
@@ -18,37 +16,37 @@ Assume that:
 
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.  
 
-³Ìªñ¦bºô¸ô¤W¬İ¨ì¦³½ìªºÃD¥Ø¡A
-½Ğ§A¼g­Ó funtion ¡A  
-µ¹§A¤@­Ó¾ã¼ÆN¡A  
-§â 5 ¥ô·N´¡¤J¾ã¼ÆNªº¥ô¦ó¦ì¸m¡A°µ¥X¦UºØ±Æ¦C²Õ¦Xªº¼Æ¦r¡A  
-¨Ã¥Bªğ¦^©Ò¦³¼Æ¦r²Õ¦X¤¤ªº³Ì¤j­È¡C  
+æœ€è¿‘åœ¨ç¶²è·¯ä¸Šçœ‹åˆ°æœ‰è¶£çš„é¡Œç›®ï¼Œ
+è«‹ä½ å¯«å€‹ funtion ï¼Œ  
+çµ¦ä½ ä¸€å€‹æ•´æ•¸Nï¼Œ  
+æŠŠ 5 ä»»æ„æ’å…¥æ•´æ•¸Nçš„ä»»ä½•ä½ç½®ï¼Œåšå‡ºå„ç¨®æ’åˆ—çµ„åˆçš„æ•¸å­—ï¼Œ  
+ä¸¦ä¸”è¿”å›æ‰€æœ‰æ•¸å­—çµ„åˆä¸­çš„æœ€å¤§å€¼ã€‚  
 
-Á|¨Ò¨Ó»¡µ¹©w 268 §Aªºµ{¦¡À³¸Óªğ¦^ 5268¡A  
-Nªº½d³ò  
+èˆ‰ä¾‹ä¾†èªªçµ¦å®š 268 ä½ çš„ç¨‹å¼æ‡‰è©²è¿”å› 5268ï¼Œ  
+Nçš„ç¯„åœ  
 -8000 <= N <= 8000  
 
-¸Ñªkªº¥¿½T©Ê³Ì­«­n¡A  
-¸Ñ¨M¤è®×ªº®Ä¯à¤£¬O¥»ÃD¦Ò¶qªº­«ÂI¡C  
+è§£æ³•çš„æ­£ç¢ºæ€§æœ€é‡è¦ï¼Œ  
+è§£æ±ºæ–¹æ¡ˆçš„æ•ˆèƒ½ä¸æ˜¯æœ¬é¡Œè€ƒé‡çš„é‡é»ã€‚  
 
-³oÃD§Úªº¸ÑÃD«ä¸ô¬O¥ı§â¿é¤J¼Æ¦rÂà¦¨¦r¦ê¡A  
-±µµÛ¦r¦ê¦A¤Á³Î¦¨¤@­Ó¤@­Óªº¦r¦ê°}¦C¡A  
-µM«á¦A¨Ì§Ç±q°}¦C«e­±´¡¨ì«á­±¡A  
-¥H¦¹¥Í¥X³\¦h¤£¦P±Æ¦C²Õ¦Xªº¦r¦ê°}¦C¡A  
-³Ì«á¦r¦ê°}¦CÂà´«¦^¦r¦ê¡AÂà´«¦^¼Æ¦r¡C
-¦A±q³o¨Ç¼Æ¦r¤¤§ä¥X³Ì¤j­È¨Ã¦^¶Ç¡C  
+é€™é¡Œæˆ‘çš„è§£é¡Œæ€è·¯æ˜¯å…ˆæŠŠè¼¸å…¥æ•¸å­—è½‰æˆå­—ä¸²ï¼Œ  
+æ¥è‘—å­—ä¸²å†åˆ‡å‰²æˆä¸€å€‹ä¸€å€‹çš„å­—ä¸²é™£åˆ—ï¼Œ  
+ç„¶å¾Œå†ä¾åºå¾é™£åˆ—å‰é¢æ’åˆ°å¾Œé¢ï¼Œ  
+ä»¥æ­¤ç”Ÿå‡ºè¨±å¤šä¸åŒæ’åˆ—çµ„åˆçš„å­—ä¸²é™£åˆ—ï¼Œ  
+æœ€å¾Œå­—ä¸²é™£åˆ—è½‰æ›å›å­—ä¸²ï¼Œè½‰æ›å›æ•¸å­—ã€‚
+å†å¾é€™äº›æ•¸å­—ä¸­æ‰¾å‡ºæœ€å¤§å€¼ä¸¦å›å‚³ã€‚  
 
-¹w«e·Ç³Æ¡G
+é å‰æº–å‚™ï¼š
 
-1. ¥ı¥h [Node.js©xºô](https://nodejs.org/en/) ¤U¸ü Node.js 14.17.4ª©¡A¨Ã¦w¸Ë¦b¹q¸£¤W¡C  
-2. ¥´¶} ©R¥O´£¥Ü¦r¤¸ ¡A¥Î `cd` «ü¥O¤Á´«¤u§@¥Ø¿ı¨ì±M®×¸ê®Æ§¨®Ú¥Ø¿ı¡C  
-3. ±µµÛ¤U«ü¥O `npm install` ¥hÅı npm®M¥óºŞ²z¾¹ ®Ú¾Ú ±M®× package.json ªº³]©w¤U¸ü¨º¥] node_modules ¡C  
-4. ¤U«ü¥O `npm run test` §Y¥i¶] Unit Test ¥h´ú¸Õ§A¼g¦b solution function ¸Ìªºµ{¦¡½X¬O§_¯à³q¹L´ú¸Õ¸ê®Æ¡C  
+1. å…ˆå» [Node.jså®˜ç¶²](https://nodejs.org/en/) ä¸‹è¼‰ Node.js 14.17.4ç‰ˆï¼Œä¸¦å®‰è£åœ¨é›»è…¦ä¸Šã€‚  
+2. æ‰“é–‹ å‘½ä»¤æç¤ºå­—å…ƒ ï¼Œç”¨ `cd` æŒ‡ä»¤åˆ‡æ›å·¥ä½œç›®éŒ„åˆ°å°ˆæ¡ˆè³‡æ–™å¤¾æ ¹ç›®éŒ„ã€‚  
+3. æ¥è‘—ä¸‹æŒ‡ä»¤ `npm install` å»è®“ npmå¥—ä»¶ç®¡ç†å™¨ æ ¹æ“š å°ˆæ¡ˆ package.json çš„è¨­å®šä¸‹è¼‰é‚£åŒ… node_modules ã€‚  
+4. ä¸‹æŒ‡ä»¤ `npm run test` å³å¯è·‘ Unit Test å»æ¸¬è©¦ä½ å¯«åœ¨ solution function è£¡çš„ç¨‹å¼ç¢¼æ˜¯å¦èƒ½é€šéæ¸¬è©¦è³‡æ–™ã€‚  
 
-ÃöÁä³¡¥÷µ{¦¡½X¦b `./test/json.test.js` ¸Ìªº solution¨ç¼Æ¡C  
+é—œéµéƒ¨ä»½ç¨‹å¼ç¢¼åœ¨ `./test/json.test.js` è£¡çš„ solutionå‡½æ•¸ã€‚  
 
-ªş¤Wµ{¦¡ Unit Test °õ¦æµ²ªG  
+é™„ä¸Šç¨‹å¼ Unit Test åŸ·è¡Œçµæœ  
 [image](./image/result1.bmp)  
 
-ªş¤W½u¤Wºô¯¸ Unit Test °õ¦æµ²ªG  
+é™„ä¸Šç·šä¸Šç¶²ç«™ Unit Test åŸ·è¡Œçµæœ  
 [image](./image/result2.bmp)  
