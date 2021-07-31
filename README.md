@@ -47,7 +47,7 @@ N的範圍
 關鍵部份程式碼在 `./test/json.test.js` 裡的 solution函數。  
 
 附上程式 Unit Test 執行結果  
-![image](./image/result1.bmp)  
+![image](./image/result1.png)  
 
 附上線上網站 Unit Test 執行結果  
-![image](./image/result2.bmp)  
+![image](./image/result2.png)  
