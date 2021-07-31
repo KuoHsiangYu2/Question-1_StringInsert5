@@ -1,0 +1,7 @@
+﻿參考資料
+
+OriginalQuestion【原始題目】
+https://codesandbox.io/s/pensive-sun-o03nb?file=/test/json.test.js
+
+Day17 | 不知道對不對，就把邏輯通通測起來 feat. Jest
+https://ithelp.ithome.com.tw/articles/10222357

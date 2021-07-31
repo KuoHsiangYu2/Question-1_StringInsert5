@@ -1,0 +1,29 @@
+{
+    "name": "unit-test-template",
+    "version": "1.0.0",
+    "description": "A unit testing template that allows you to run tests.",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel index.html --open",
+        "test": "jest",
+        "build": "parcel build index.html"
+    },
+    "dependencies": {
+        "JSON": "1.0.0",
+        "parcel-bundler": "^1.6.1"
+    },
+    "devDependencies": {
+        "@babel/core": "7.2.0",
+        "@types/jest": "^26.0.24",
+        "jest": "^27.0.6",
+        "ts-jest": "^27.0.4"
+    },
+    "resolutions": {
+        "@babel/preset-env": "7.13.8"
+    },
+    "keywords": [
+        "unit test",
+        "unit",
+        "mocha"
+    ]
+}
