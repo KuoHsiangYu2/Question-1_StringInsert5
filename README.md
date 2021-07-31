@@ -18,7 +18,7 @@ Assume that:
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.  
 
 最近在網路上看到有趣的題目，
-請你寫個 funtion ，  
+請你寫個 function ，  
 給你一個整數N，  
 把 5 任意插入整數N的任何位置，做出各種排列組合的數字，  
 並且返回所有數字組合中的最大值。  
