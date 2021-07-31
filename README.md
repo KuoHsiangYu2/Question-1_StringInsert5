@@ -1,7 +1,7 @@
 # Question-1_StringInsert5  
 
 原始題目  
-[image](/image/OriginalQuestion.bmp)  
+![image](./image/OriginalQuestion.bmp)  
 
 Write a function solution that, given an integer N, returns the maximum possible value obtained by inserting one '5' digit inside the decimal representation of integer N.  
 
@@ -46,7 +46,7 @@ N的範圍
 關鍵部份程式碼在 `./test/json.test.js` 裡的 solution函數。  
 
 附上程式 Unit Test 執行結果  
-[image](image/result1.bmp)  
+![image](./image/result1.bmp)  
 
 附上線上網站 Unit Test 執行結果  
-[image](image/result2.bmp)  
+![image](./image/result2.bmp)  
